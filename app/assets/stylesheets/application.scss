@@ -181,3 +181,8 @@ table {
 #delete-confirm:disabled {
   cursor: not-allowed;
 }
+
+// anderScore Buttons are green
+.bg-primary {
+  color: $anderscore-darkgreen;
+}
