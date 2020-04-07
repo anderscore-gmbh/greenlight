@@ -292,9 +292,19 @@ de_DE:
     search:
       start: Suche beginnen...
   landing:
-    about: "%{href} ist eine benutzerfreundliche Oberfläche für das Open-Source-Webkonferenzsystem BigBlueButton. Sie können Ihre eigenen Räume erstellen, um Konferenzen zu veranstalten oder können bestehenden Konferenzen über einen kurzen und bequemen Link beitreten."
+    about: "%{href} ist ein einfacher Frontend für Ihren quelloffenen BigBlueButton Webkonferenzserver.
+    Sie können ihre eigenen Räume erstellen, um Konferenzen abzuhalten oder Sie können bestehenden Konferenzen über
+    einen praktischen Kurzlink beitreten."
+    anderScore: "Wir von %{href} sind Experten in individueller Software-Architektur & -Entwicklung auf der
+    Java-Plattform. Wir übernehmen gerne auch knifflige Aufgaben über den kompletten application life cycle hinweg,
+    von der business case Kalkulation und Anforderungsanalyse über Architekturkonzeption und Entwicklung/ Testing bis
+    hin zur Übergabe an den (ggf. ITIL-konformen) Betrieb, gesteuert per zielführendem Projektmanagement, meist mit
+    einem agilen Ansatz.
+
+    <br><br>Der Server basiert auf %{href_green}."
     welcome: Willkommen zu BigBlueButton.
-    video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
+    video: Schauen Sie sich unsere Video-Anleitung zur Verwendung von Greenlight an
+    video_as: Schauen Sie sich die Video-Anleitung zur Verwendung von Greenlight an
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
   language_default: Voreinstellung (Browsersprache)
