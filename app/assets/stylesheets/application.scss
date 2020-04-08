@@ -121,7 +121,7 @@ a {
 }
 
 .force-text-normal {
-  color: #495057;
+  color: $force-text-normal-color;
 }
 
 .terms {
@@ -139,7 +139,7 @@ a {
   background-color: $button-color-blue;
 
   #cookies-agree-button {
-    background-color: green !important;
+    background-color: $cookies-agree-button-background !important;
   }
 }
 
