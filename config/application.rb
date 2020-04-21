@@ -130,7 +130,7 @@ module Greenlight
     # DEFAULTS
 
     # Default branding image if the user does not specify one
-    config.branding_image_default = "anderScore.png"
+    config.branding_image_default = "BBB_at_anderScore_logo.png"
 
     # Default primary color if the user does not specify one
     config.primary_color_default = "#0a4a3a"
