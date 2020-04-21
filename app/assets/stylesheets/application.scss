@@ -134,12 +134,14 @@ a {
 }
 
 .cookies-banner {
-  height: $footer-height;
   color: white;
   background-color: $button-color-blue;
-
   #cookies-agree-button {
+<<<<<<< HEAD
     background-color: $cookies-agree-button-background !important;
+=======
+    margin: 0;
+>>>>>>> upstream/master
   }
 }
 
@@ -181,8 +183,11 @@ table {
 #delete-confirm:disabled {
   cursor: not-allowed;
 }
+<<<<<<< HEAD
 
 // anderScore Buttons are green
 .bg-primary {
   color: $anderscore-darkgreen;
 }
+=======
+>>>>>>> upstream/master
